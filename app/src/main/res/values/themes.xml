@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.XSpeed" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/x_black</item>
+        <item name="colorPrimaryVariant">@color/x_black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/x_blue</item>
+        <item name="android:statusBarColor">@color/x_black</item>
+        <item name="android:navigationBarColor">@color/x_black</item>
+        <item name="android:windowBackground">@color/x_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
